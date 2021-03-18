@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @moshe and I'm trying to be a good Data Scientist
+- 💻 But I also wanna become a tattoo artist
+- 🌱 Whatever comes first
+- 😤 I want to be a clean coder and an excellent debugger
+- 📫 You can dm me at @moshe.exe on instagram or send an email to moshefabricio@gmail.com
